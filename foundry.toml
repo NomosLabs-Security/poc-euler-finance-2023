@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Euler Finance exploit — one block before attack
+fork_block_number = 16818044
